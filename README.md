@@ -1,2 +1,2 @@
 # Paper-Implementation
-In this repo I tried to implement some ML papers
+In this repo I have implemented some AI papers
