@@ -1,1 +1,1 @@
-IMPLEMENTED Cycle GAN paper
+Implemented Cycle GAN paper
